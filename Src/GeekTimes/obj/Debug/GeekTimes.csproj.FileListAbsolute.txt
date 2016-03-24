@@ -1,0 +1,10 @@
+D:\Project\Src\GeekTimes\bin\Debug\GeekTimes.dll
+D:\Project\Src\GeekTimes\bin\Debug\GeekTimes.pdb
+D:\Project\Src\GeekTimes\bin\Debug\HtmlAgilityPack.dll
+D:\Project\Src\GeekTimes\bin\Debug\IGrabber.dll
+D:\Project\Src\GeekTimes\bin\Debug\MyWebParser.dll
+D:\Project\Src\GeekTimes\bin\Debug\HtmlAgilityPack.pdb
+D:\Project\Src\GeekTimes\bin\Debug\HtmlAgilityPack.xml
+D:\Project\Src\GeekTimes\obj\Debug\GeekTimes.csprojResolveAssemblyReference.cache
+D:\Project\Src\GeekTimes\obj\Debug\GeekTimes.dll
+D:\Project\Src\GeekTimes\obj\Debug\GeekTimes.pdb

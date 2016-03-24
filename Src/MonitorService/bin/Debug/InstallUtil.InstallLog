@@ -1,0 +1,1707 @@
+﻿
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+На этапе установки возникло исключение.
+System.ComponentModel.Win32Exception: Сопоставление между именами пользователей и идентификаторами безопасности не было произведено
+
+Начинается этап отката процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап отката выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+На этапе установки возникло исключение.
+System.ComponentModel.Win32Exception: Сопоставление между именами пользователей и идентификаторами безопасности не было произведено
+
+Начинается этап отката процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап отката выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+На этапе установки возникло исключение.
+System.ComponentModel.Win32Exception: Сопоставление между именами пользователей и идентификаторами безопасности не было произведено
+
+Начинается этап отката процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап отката выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+На этапе установки возникло исключение.
+System.ComponentModel.Win32Exception: Сопоставление между именами пользователей и идентификаторами безопасности не было произведено
+
+Начинается этап отката процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап отката выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+На этапе установки возникло исключение.
+System.ComponentModel.Win32Exception: Сопоставление между именами пользователей и идентификаторами безопасности не было произведено
+
+Начинается этап отката процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап отката выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+На этапе установки возникло исключение.
+System.ArgumentOutOfRangeException: Индекс и длина должны указывать на позицию в строке.
+Имя параметра: length
+
+Начинается этап отката процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап отката выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+На этапе установки возникло исключение.
+System.ComponentModel.Win32Exception: Сопоставление между именами пользователей и идентификаторами безопасности не было произведено
+
+Начинается этап отката процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап отката выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+На этапе установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба уже существует
+
+Начинается этап отката процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап отката выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+На этапе установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба уже существует
+
+Начинается этап отката процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап отката выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+На этапе установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба уже существует
+
+Начинается этап отката процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап отката выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+На этапе установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба уже существует
+
+Начинается этап отката процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап отката выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+На этапе установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба уже существует
+
+Начинается этап отката процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап отката выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+На этапе установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба уже существует
+
+Начинается этап отката процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап отката выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+На этапе установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба уже существует
+
+Начинается этап отката процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап отката выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+На этапе установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба уже существует
+
+Начинается этап отката процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап отката выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+На этапе установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба уже существует
+
+Начинается этап отката процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап отката выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+На этапе установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба уже существует
+
+Начинается этап отката процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап отката выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+На этапе установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба уже существует
+
+Начинается этап отката процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап отката выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Work\Programming\MonitorService\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Project\Src\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Project\Src\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Project\Src\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Project\Src\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Project\Src\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Project\Src\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Project\Src\MonitorService\bin\Debug\MonitorService.exe.
+Данный файл находится в D:\Project\Src\MonitorService\bin\Debug\MonitorService.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.

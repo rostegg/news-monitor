@@ -1,0 +1,5 @@
+D:\Project\Src\IGrabber\bin\Debug\IGrabber.dll
+D:\Project\Src\IGrabber\bin\Debug\IGrabber.pdb
+D:\Project\Src\IGrabber\obj\Debug\IGrabber.csprojResolveAssemblyReference.cache
+D:\Project\Src\IGrabber\obj\Debug\IGrabber.dll
+D:\Project\Src\IGrabber\obj\Debug\IGrabber.pdb

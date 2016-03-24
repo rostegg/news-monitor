@@ -1,0 +1,9 @@
+D:\Project\Src\Habrahabr\bin\Debug\Habrahabr.dll
+D:\Project\Src\Habrahabr\bin\Debug\Habrahabr.pdb
+D:\Project\Src\Habrahabr\bin\Debug\HtmlAgilityPack.dll
+D:\Project\Src\Habrahabr\bin\Debug\IGrabber.dll
+D:\Project\Src\Habrahabr\bin\Debug\MyWebParser.dll
+D:\Project\Src\Habrahabr\bin\Debug\HtmlAgilityPack.pdb
+D:\Project\Src\Habrahabr\bin\Debug\HtmlAgilityPack.xml
+D:\Project\Src\Habrahabr\obj\Debug\Habrahabr.dll
+D:\Project\Src\Habrahabr\obj\Debug\Habrahabr.pdb

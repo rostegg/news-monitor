@@ -1,0 +1,9 @@
+D:\Project\Src\Megamozg\bin\Debug\Megamozg.dll
+D:\Project\Src\Megamozg\bin\Debug\Megamozg.pdb
+D:\Project\Src\Megamozg\bin\Debug\HtmlAgilityPack.dll
+D:\Project\Src\Megamozg\bin\Debug\IGrabber.dll
+D:\Project\Src\Megamozg\bin\Debug\MyWebParser.dll
+D:\Project\Src\Megamozg\bin\Debug\HtmlAgilityPack.pdb
+D:\Project\Src\Megamozg\bin\Debug\HtmlAgilityPack.xml
+D:\Project\Src\Megamozg\obj\Debug\Megamozg.dll
+D:\Project\Src\Megamozg\obj\Debug\Megamozg.pdb
