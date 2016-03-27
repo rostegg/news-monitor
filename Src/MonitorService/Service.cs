@@ -52,7 +52,7 @@ namespace MonitorService
                 Configuration.PluginManager.SetupPlugins(Plugins);
 
                 Configuration.TimersManager.CreatePluginsMonitoringTimer();
-                HelpFunctions.BrowserUtil.GetPathToBrowser();
+               // HelpFunctions.BrowserUtil.GetPathToBrowser();
 
             }
             catch (Exception ex)
