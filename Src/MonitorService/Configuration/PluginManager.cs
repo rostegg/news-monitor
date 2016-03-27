@@ -17,6 +17,8 @@ namespace MonitorService.Configuration
             set;
         }
 
+
+
         public PluginManager(string path)
         {
             DirectoryCatalog directoryCatalog = new DirectoryCatalog(path);
@@ -24,6 +26,10 @@ namespace MonitorService.Configuration
             Container = new CompositionContainer(catalog);
             Container.ComposeParts(this);
         }
+
+        /// <summary>
+        /// Method prepare plugins (create workspace,timers,settings)
+        /// </summary>
         public static void SetupPlugins(IEnumerable<IGrabber.IGrabber> plugins)
         {
             if (plugins.Count() > 0)

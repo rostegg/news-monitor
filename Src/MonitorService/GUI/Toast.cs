@@ -17,16 +17,23 @@ namespace MonitorService.GUI
     {
 
         private static string APP_ID = "My.Service.Monitor";
+
+
+        /// <summary>
+        /// Method, which try to create a shortcut on the desktop if it does not exists
+        /// </summary>
         public static bool TryCreateShortcut()
         {
             try
             {
-                String shortcutPath = String.Format(@"C:\Users\Rostik\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\ServiceMonitor.lnk");
-                if (!File.Exists(shortcutPath))
+                foreach (string user in Configuration.Setup.GetUsers())
                 {
-                    InstallShortcut(shortcutPath);
-                    return true;
-                }
+                    String shortcutPath = String.Format(@"{0}\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\ServiceMonitor.lnk",user);
+                    if (!File.Exists(shortcutPath))
+                    {
+                        InstallShortcut(shortcutPath);
+                    }
+                }     
                 return true;
             }
             catch (Exception ex)
@@ -36,6 +43,9 @@ namespace MonitorService.GUI
             }
         }
 
+        /// <summary>
+        /// Method, create a shortcut
+        /// </summary>
         private static void InstallShortcut(String shortcutPath)
         {
             try
@@ -60,12 +70,19 @@ namespace MonitorService.GUI
                 Service.WriteLog(ex.ToString());
             }
         }
-        
+
+
+        /// <summary>
+        /// Method, which create toast notification
+        /// </summary>
+        /// <param name="name">News title</param>
+        /// <param name="href">News web address</param>
+        /// <param name="img">Image name (selected using the plug-in tag)</param>
         public static void CreateToast(string name, string href,string img)
         {
             try
             {
-                XmlDocument toastXml = ToastNotificationManager.GetTemplateContent(ToastTemplateType.ToastImageAndText04);
+                XmlDocument toastXml = ToastNotificationManager.GetTemplateContent(ToastTemplateType.ToastImageAndText02);
                 XmlNodeList stringElements = toastXml.GetElementsByTagName("text");
                 stringElements[0].AppendChild(toastXml.CreateTextNode(name));
                 stringElements[1].AppendChild(toastXml.CreateTextNode(href));
@@ -77,9 +94,9 @@ namespace MonitorService.GUI
                 }
                 ToastNotification toast = new ToastNotification(toastXml);
                 toast.Activated += new Windows.Foundation.TypedEventHandler<ToastNotification, object>((q, w) => {
-                    System.Diagnostics.Process.Start(href);                   
+                    Service.WriteLog("Open " + HelpFunctions.BrowserUtil.CurrentBrowserPath);
+                    Process.Start(HelpFunctions.BrowserUtil.CurrentBrowserPath,href);                   
                 });
-                toast.Dismissed += new Windows.Foundation.TypedEventHandler<ToastNotification, ToastDismissedEventArgs>((q, w) => { System.Diagnostics.Process.Start(href); });
                 ToastNotificationManager.CreateToastNotifier(APP_ID).Show(toast);
             }
             catch (Exception ex)

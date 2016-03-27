@@ -22,7 +22,6 @@ namespace MonitorService
         
         public static List<Timer> Timers = new List<Timer>();
         static Semaphore semaphore = new Semaphore(1,1);
-        static string[] Users;
         public Service()
         {
             InitializeComponent();
@@ -42,17 +41,18 @@ namespace MonitorService
         {
             try
             {
-                Users = Configuration.Setup.GetUsers();
 
                 GUI.Toast.TryCreateShortcut();
 
                 Configuration.Setup.SetupWorkPlace();
                
 
+
                 Plugins.AddRange(Configuration.Setup.AddPlugins());
                 Configuration.PluginManager.SetupPlugins(Plugins);
 
                 Configuration.TimersManager.CreatePluginsMonitoringTimer();
+                HelpFunctions.BrowserUtil.GetPathToBrowser();
 
             }
             catch (Exception ex)

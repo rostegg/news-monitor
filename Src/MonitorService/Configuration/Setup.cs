@@ -9,11 +9,16 @@ namespace MonitorService.Configuration
 {
     public static class Setup
     {
-        public static readonly string DataPath = Path.Combine(@"C:\Users\Rostik\AppData\Roaming", @"WebNews\DataBases\DataStorage.sqlite");
-        public static readonly string IconsPath = Path.Combine(@"C:\Users\Rostik\AppData\Roaming", @"WebNews\Images");
-        public static readonly string MainPath = Path.Combine(@"C:\Users\Rostik\AppData\Roaming", @"WebNews");
-        public static readonly string PluginsPath = Path.Combine(@"C:\Users\Rostik\AppData\Roaming\WebNews\Plugins");
-        public static readonly string SettingsPath = Path.Combine(@"C:\Users\Rostik\AppData\Roaming", @"WebNews\settings.xml");
+        private static string SystemDisk = GetSystemDisk();
+        public static readonly string DataPath = Path.Combine(String.Format(@"{0}Users\Default\AppData\Roaming",SystemDisk), @"WebNews\DataBases\DataStorage.sqlite");
+        public static readonly string IconsPath = Path.Combine(String.Format(@"{0}Users\Default\AppData\Roaming",SystemDisk), @"WebNews\Images");
+        public static readonly string MainPath = Path.Combine(String.Format(@"{0}Users\Default\AppData\Roaming",SystemDisk), @"WebNews");
+        public static readonly string PluginsPath = Path.Combine(String.Format(@"{0}Users\Default\AppData\Roaming\WebNews\Plugins",SystemDisk));
+        public static readonly string SettingsPath = Path.Combine(String.Format(@"{0}Users\Default\AppData\Roaming",SystemDisk), @"WebNews\settings.xml");
+
+        /// <summary>
+        /// Create directorys, data base file and setting file
+        /// </summary>
         public static bool SetupWorkPlace()
         {
             try
@@ -38,7 +43,10 @@ namespace MonitorService.Configuration
                 return false;
             }
         }
-        
+
+        /// <summary>
+        /// Method, which create tables in data base for plugins
+        /// </summary>
         public static void SetupDataBase(IEnumerable<IGrabber.IGrabber> list)
         {
             try
@@ -56,6 +64,9 @@ namespace MonitorService.Configuration
             }
         }
 
+        /// <summary>
+        /// Method append new plugins to plugin list
+        /// </summary>
         public static List<IGrabber.IGrabber> AddPlugins()
         {
             List<IGrabber.IGrabber> result = new List<IGrabber.IGrabber>();
@@ -72,9 +83,14 @@ namespace MonitorService.Configuration
             }        
             return result;
         }
+
+
+        /// <summary>
+        /// Method, which find all users in system
+        /// </summary>
         public static string[] GetUsers()
         {
-            List<string> users = Directory.GetDirectories(@"C:\Users").ToList();
+            List<string> users = Directory.GetDirectories(String.Format(@"{0}Users",SystemDisk)).ToList();
             List<string> result = new List<string>();
             foreach (string user in users)
             {
@@ -85,6 +101,17 @@ namespace MonitorService.Configuration
             }
             return result.ToArray();
             
+        }
+
+        /// <summary>
+        /// Detect the main hard drive letter
+        /// </summary>
+        private static string GetSystemDisk()
+        {
+            string system = Environment.GetFolderPath(Environment.SpecialFolder.System);
+            string path = Path.GetPathRoot(system);
+            Service.WriteLog("System disk - " + path);
+            return path;
         }
     }
 }

@@ -11,6 +11,10 @@ namespace MonitorService.Configuration
 {
     public static class Settings
     {
+
+        /// <summary>
+        /// Method generate initial xml-settings
+        /// </summary>
         public static void CreateStartedSettingsDocument()
         {
             try
@@ -29,28 +33,81 @@ namespace MonitorService.Configuration
             }
            
         }
-        
+
+        /// <summary>
+        /// Method add informations about plugins to settings
+        /// </summary>
         public static void AddPluginsSettings(IEnumerable<IGrabber.IGrabber> items)
         {
             try
             {
-                Service.WriteLog("Write settings " +  items.Count());
                 XDocument doc = XDocument.Load(Setup.SettingsPath);
+                var str = XElement.Parse(doc.Root.Element("plugins").ToString());
                 foreach (IGrabber.IGrabber item in items)
                 {
-                    XElement element = new XElement("plugin");
-                    element.Add(new XElement("tag", item.Tag));
-                    element.Add(new XElement("url", item.Url));
-                    element.Add(new XElement("interval", item.Interval));
-                    doc.Element("plugins").Add(element);
-                    Service.WriteLog(element.ToString());
+
+                    var result = str.Elements("plugin").Where(x => x.Element("name").Value.Equals(item.Tag)).ToList();
+                    if (result.Count == 0)
+                    {
+                        XElement element = new XElement("plugin");
+                        element.Add(new XElement("tag", item.Tag));
+                        element.Add(new XElement("url", item.Url));
+                        element.Add(new XElement("interval", item.Interval));
+
+                        doc.Root.Element("plugins").Add(element);
+                    }
                 }
-                Service.WriteLog(doc.ToString());
                 doc.Save(Setup.SettingsPath);
             }
             catch (Exception ex)
             {
                 Service.WriteLog(ex.ToString());
+            }
+        }
+
+        /// <summary>
+        /// Method add informations about browser to settings
+        /// </summary>
+        public static void AddBrowserSettings(HelpFunctions.Browsers browser,string path)
+        {
+            try
+            {
+                XDocument doc = XDocument.Load(Setup.SettingsPath);
+                if (doc.Root.Element("browser") == null)
+                {
+                    XElement element = new XElement("browser");
+                    element.Add(new XElement("name", browser.ToString()));
+                    element.Add(new XElement("path", path));
+                    doc.Root.Add(element);
+                    doc.Save(Setup.SettingsPath);
+                }
+            }
+            catch
+            {
+            }
+        }
+
+        /// <summary>
+        /// Method return pair BrowserName - BrowserPath 
+        /// </summary>
+        public static Tuple<string,string> GetBrowserSeting()
+        {
+            try
+            {
+                XDocument doc = XDocument.Load(Setup.SettingsPath);
+                if (doc.Root.Element("browser") != null)
+                {
+                    XElement element = doc.Root.Element("browser");
+                    return new Tuple<string,string>(element.Element("name").Value, element.Element("path").Value);
+                }
+                else
+                {
+                    return null;
+                }
+            }
+            catch
+            {
+                return null;
             }
         }
     }

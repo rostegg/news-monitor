@@ -121,6 +121,8 @@
     <Compile Include="Configuration\TimersManager.cs" />
     <Compile Include="DataStorage\StorageManager.cs" />
     <Compile Include="GUI\Toast.cs" />
+    <Compile Include="HelpFunctions\Browsers.cs" />
+    <Compile Include="HelpFunctions\BrowserUtil.cs" />
     <Compile Include="HelpFunctions\Connection.cs" />
     <Compile Include="ProjectInstaller.cs">
       <SubType>Component</SubType>
@@ -136,7 +138,7 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ShellHelper.cs" />
+    <Compile Include="HelpFunctions\ShellHelper.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

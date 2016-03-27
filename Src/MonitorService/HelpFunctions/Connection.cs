@@ -9,6 +9,9 @@ namespace MonitorService.HelpFunctions
 {
     class Connection
     {
+        /// <summary>
+        /// The method , which check internet connection
+        /// </summary>
         public static bool InternetConnection()
         {
             try

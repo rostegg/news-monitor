@@ -106,6 +106,7 @@ namespace MonitorService.DataStorage
                     if (Reader.HasRows)
                     {
                         reader.Release();
+                        // here close
                         return true;
                     }
                     else
