@@ -27,16 +27,6 @@ namespace MonitorService
             InitializeComponent();
         }
         
-        public static void WriteLog(string msg)
-        {
-            semaphore.WaitOne();
-            using (System.IO.StreamWriter file =
-            new System.IO.StreamWriter(@"D:\Log\Loggs.txt", true))
-            {
-                file.WriteLine(DateTime.Now + " " + msg);
-            }
-            semaphore.Release();
-        }
         protected override void OnStart(string[] args)
         {
             try
@@ -55,38 +45,32 @@ namespace MonitorService
                // HelpFunctions.BrowserUtil.GetPathToBrowser();
 
             }
-            catch (Exception ex)
+            catch 
             {
-                WriteLog(ex.ToString());
             }
         }
             
 
         public static void TimeUp(object sender, System.Timers.ElapsedEventArgs e, IGrabber.IGrabber module)
         {
-            WriteLog("Started " + module.Tag);
             try
             {
                 if (HelpFunctions.Connection.InternetConnection())
                 {
                     Task.Run(() => {
                         List<Tuple<string, string>> info = module.GetInfo();
-                        WriteLog("Count " + info.Count + " for " + module.Tag ) ;
                         info.ForEach(q => {
                             if (DataStorage.StorageManager.AddItem(q.Item1, q.Item2, module.Tag))
                             {
-                                WriteLog("New item! " + q.Item1 + " - " + q.Item2);
                                 GUI.Toast.CreateToast(q.Item1, q.Item2,  module.Tag);
-                                
                             }
                             Thread.Sleep(3000);                               
                         });
                     });
                 }
             }
-            catch (Exception ex)
+            catch
             {
-                WriteLog(ex.ToString());
             }            
         }
         

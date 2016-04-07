@@ -1641,3 +1641,29 @@
    logtoconsole = 
    logfile = D:\Project\Src\MonitorService\bin\Debug\MonitorService.InstallLog
    assemblypath = D:\Project\Src\MonitorService\bin\Debug\MonitorService.exe
+Выполняется установка сборки 'D:\Project\Src\MonitorService\bin\Debug\MonitorService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\Project\Src\MonitorService\bin\Debug\MonitorService.InstallLog
+   assemblypath = D:\Project\Src\MonitorService\bin\Debug\MonitorService.exe
+Устанавливается служба NewsWebMonitor...
+Служба NewsWebMonitor успешно установлена.
+Создается исходный EventLog NewsWebMonitor в журнале Application...
+Выполняется фиксация сборки 'D:\Project\Src\MonitorService\bin\Debug\MonitorService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\Project\Src\MonitorService\bin\Debug\MonitorService.InstallLog
+   assemblypath = D:\Project\Src\MonitorService\bin\Debug\MonitorService.exe
+Выполняется установка сборки 'D:\Project\Src\MonitorService\bin\Debug\MonitorService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\Project\Src\MonitorService\bin\Debug\MonitorService.InstallLog
+   assemblypath = D:\Project\Src\MonitorService\bin\Debug\MonitorService.exe
+Устанавливается служба NewsWebMonitor...
+Создается исходный EventLog NewsWebMonitor в журнале Application...
+Выполняется откат для сборки 'D:\Project\Src\MonitorService\bin\Debug\MonitorService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\Project\Src\MonitorService\bin\Debug\MonitorService.InstallLog
+   assemblypath = D:\Project\Src\MonitorService\bin\Debug\MonitorService.exe
+Восстанавливается исходное состояние журнала событий для источника NewsWebMonitor.

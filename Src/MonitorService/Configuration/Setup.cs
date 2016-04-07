@@ -37,9 +37,8 @@ namespace MonitorService.Configuration
                     Settings.CreateStartedSettingsDocument();
                 return true;
             }
-            catch (Exception ex)
+            catch
             {
-                Service.WriteLog(ex.ToString());
                 return false;
             }
         }
@@ -53,14 +52,12 @@ namespace MonitorService.Configuration
             {
                 foreach (IGrabber.IGrabber module in list)
                 {
-                    Service.WriteLog("Started create " + module.Tag);
                     DataStorage.StorageManager.CreateTable(module.Tag);
                 }
                 
             }
-            catch (Exception ex)
+            catch
             {
-                Service.WriteLog(ex.ToString());
             }
         }
 
@@ -71,13 +68,10 @@ namespace MonitorService.Configuration
         {
             List<IGrabber.IGrabber> result = new List<IGrabber.IGrabber>();
             PluginManager manager = new PluginManager(PluginsPath);
-            if (manager.Plugins != null)
-                Service.WriteLog("Plugins added. Count :  " + manager.Plugins.Count().ToString() );
             foreach (IGrabber.IGrabber plugin in manager.Plugins)
             {
                 if (!Service.Plugins.ToList().Exists(x => x.Tag.Equals(plugin.Tag)))
                 {
-                    Service.WriteLog("New plugin : " + plugin.Tag);
                     result.Add(plugin);
                 }
             }        
@@ -110,7 +104,6 @@ namespace MonitorService.Configuration
         {
             string system = Environment.GetFolderPath(Environment.SpecialFolder.System);
             string path = Path.GetPathRoot(system);
-            Service.WriteLog("System disk - " + path);
             return path;
         }
     }

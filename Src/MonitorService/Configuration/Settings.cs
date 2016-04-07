@@ -27,9 +27,8 @@ namespace MonitorService.Configuration
                 doc.Add(main);
                 doc.Save(Setup.SettingsPath);
             }                
-            catch(Exception ex)
+            catch
             {
-                Service.WriteLog(ex.ToString());
             }
            
         }
@@ -59,9 +58,8 @@ namespace MonitorService.Configuration
                 }
                 doc.Save(Setup.SettingsPath);
             }
-            catch (Exception ex)
+            catch
             {
-                Service.WriteLog(ex.ToString());
             }
         }
 

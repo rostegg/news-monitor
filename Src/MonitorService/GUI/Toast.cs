@@ -36,9 +36,8 @@ namespace MonitorService.GUI
                 }     
                 return true;
             }
-            catch (Exception ex)
+            catch
             {
-                Service.WriteLog(ex.ToString());
                 return false;
             }
         }
@@ -65,9 +64,8 @@ namespace MonitorService.GUI
 
                 ErrorHelper.VerifySucceeded(newShortcutSave.Save(shortcutPath, true));
             }
-            catch (Exception ex)
+            catch
             {
-                Service.WriteLog(ex.ToString());
             }
         }
 
@@ -94,14 +92,12 @@ namespace MonitorService.GUI
                 }
                 ToastNotification toast = new ToastNotification(toastXml);
                 toast.Activated += new Windows.Foundation.TypedEventHandler<ToastNotification, object>((q, w) => {
-                    Service.WriteLog("Open " + HelpFunctions.BrowserUtil.CurrentBrowserPath);
                     Process.Start(HelpFunctions.BrowserUtil.CurrentBrowserPath,href);                   
                 });
                 ToastNotificationManager.CreateToastNotifier(APP_ID).Show(toast);
             }
-            catch (Exception ex)
+            catch
             {
-                Service.WriteLog(ex.ToString());
             }
 
         }

@@ -33,7 +33,6 @@ namespace MonitorService.DataStorage
                 }
                 else
                 {               
-                    Service.WriteLog("Item exists!!!");
                     semaphore.Release();
                     return false;
                 }
@@ -43,7 +42,6 @@ namespace MonitorService.DataStorage
             catch (Exception ex)
             {
                 semaphore.Release();
-                Service.WriteLog(ex.ToString());
                 return false;
             }
         }
@@ -59,13 +57,11 @@ namespace MonitorService.DataStorage
                         string sql = String.Format("create table {0} (id INTEGER PRIMARY KEY AUTOINCREMENT, timeadd TIMESTAMP DEFAULT CURRENT_TIMESTAMP, name varchar(50), url varchar(50))", Tag);
                         SQLiteCommand command = new SQLiteCommand(sql, Connection);
                         command.ExecuteNonQuery();
-                        Service.WriteLog("Created table " + Tag);
                     }
                 }
             }
-            catch (Exception ex)
+            catch 
             {
-                Service.WriteLog(ex.ToString());
             }
 
         }
@@ -84,7 +80,6 @@ namespace MonitorService.DataStorage
                 }
                 catch (Exception ex)
                 {
-                    Service.WriteLog("Table exists\n"+ex);
                     Connection.Close();
                     return false;
                 }
@@ -116,9 +111,8 @@ namespace MonitorService.DataStorage
                     }
                 }
             }
-            catch (Exception ex)
+            catch
             {
-                Service.WriteLog(ex.ToString());
                 return false;
             }
         }

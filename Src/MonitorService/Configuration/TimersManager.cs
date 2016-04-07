@@ -14,7 +14,6 @@ namespace MonitorService.Configuration
         {
             foreach (IGrabber.IGrabber module in plugins)
             {
-                Service.WriteLog("Create timer for " + module.Tag);
                 Timer aTimer = new Timer();
                 aTimer.Interval = 60000 * module.Interval;
                 aTimer.Elapsed += (sender, e) => Service.TimeUp(sender, e, module);
@@ -29,13 +28,11 @@ namespace MonitorService.Configuration
         {
             if (PluginsMonitoringTimer == null)
             {
-                Service.WriteLog("Created PluginsMonitoringTime");
                 PluginsMonitoringTimer = new Timer();
                 PluginsMonitoringTimer.Interval = 60000 * 2;
                 PluginsMonitoringTimer.Elapsed += (sender, e) =>
                 {
                     List<IGrabber.IGrabber> result = Setup.AddPlugins();
-                    Service.WriteLog("Finded " + result.Count + " plugins");
                     if (result.Count != 0)
                     {
                         Service.Plugins.AddRange(result);
